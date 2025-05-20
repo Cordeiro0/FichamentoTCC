@@ -1,0 +1,40 @@
+Quantitativo-
+1-Você sabe o que é dislexia?
+a)Sim b)Não
+2-Você conhece alguém que tem dislexia?
+a)Sim, conheço b)Não, desconheço c)Sim, eu tenho
+3-Você sabe os impactos da dislexia nos estudos?
+a)Sim b)Não
+4-Você acredita que pessoas dislexias tem dificuldades na socialização?
+a)Sim, há dificulades razoaveis b)Sim, há grandes dificuldades c)Não
+5-Você diria que há inclusão dos dislexicos nos ambientes escolares? 
+a)Sim, há tentativas b)Sim, existe totalmente c)Não 
+6-Você considera a falta de inclusão de pessoas dislexias uma questão significativa que demanda ações interventivas?
+a)Sim b)Não
+7-Você acredita que uma má alfabetização pode impactar o futuro?
+a)Sim, pode prejudicar grandemente o futuro do individuo b)Sim, prejudicará minimamente o futuro do individuo c)Não, uma má alafabetização não influenciaria no futuro de um individuo
+8-Você conhece alguém que teve dificuldades posteriores devido a uma má alfabetização?
+a)Sim b)Não
+9-Você acredita que jogos e brincadeiras podem estimular o aprendizado?
+a)Sim, bastante b)Sim, pouco c)Não
+10-Você acredita que o uso de um site que auxilie no aprendizado de crianças dislexias seria útil?
+a)Sim b)Não
+
+Qualitativo-(Publico alvo: dislexicos)  
+
+1. Sobre sua experiência no ambiente escolar. Você enfrentou alguma dificuldade por causa da dislexia?
+Explique de que forma isso aconteceu e como você lidou com a situação.
+2. Durante sua vivência escolar, você se sentiu incluído? explique por que se sentia (ou não se sentia) 
+e como isso afetou seu aprendizado.
+3. Quais tipos de apoio ou adaptações no ensino você recebeu na escola por ser uma pessoa dislexica?
+4. Como a dislexia afetou sua autoestima ou confiança na sala de aula? Afetou seus estudos?
+5. Você acredita que a dislexia teve influência na sua forma de se relacionar com outras pessoas, como colegas e professores?
+Fale um pouco sobre isso e dê exemplos, se puder.
+6. O que você mudaria no sistema educacional para melhorar a inclusão de pessoas com dislexia? 
+7. Quais são as formas de estudos mais eficaz para você? Justifique
+8. De que maneira as dificuldades relacionadas à dislexia impactaram sua vida pessoal? fale mais sobre.
+9. Durante a sua afalbetização você já teve acesso a tecnologias ou materiais adaptados para facilitar o aprendizado?Se sim, quais?
+10. Na sua opinião, atividades lúdicas como jogos e brincadeiras ajudaram (ou poderiam ter ajudado) no seu processo de alfabetização?
+Justifique sua resposta com base na sua vivência.
+
+
